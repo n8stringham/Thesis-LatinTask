@@ -15,10 +15,9 @@ from gensim.models import Word2Vec
 
 import re
 
- 
 filename = 'Augustine_Confesiones.txt'
 
-#Read in Latin Document and eliminate some line breaks
+# Read in Latin Document and eliminate some line breaks
 with open(filename) as f_obj:
     contents = f_obj.read()
     cleaned_contents = re.sub(r'\n|\s+|\*', ' ', contents)
@@ -29,13 +28,9 @@ sentences = textcleaner.split_sentences(cleaned_contents)
 sentence_tokens = [simple_preprocess(sentence) for sentence in sentences]
 
 # Train a Word2Vec model on the data
-model = Word2Vec(sentence_tokens, size=100, window=10, min_count=10)
-model.train(sentence_tokens, total_examples=1, epochs=1)
+model = Word2Vec(sentence_tokens, size=300, window=5, min_count=10)
 
-#Analyze similar words
+# Analyze similar words
 model.wv.most_similar(positive="infantia")
 
-
-
-
-    
+model.wv['infantia']

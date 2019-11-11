@@ -1,0 +1,36 @@
+: gender
+puer puella pater mater
+puer puella rex regina
+puer puella victor victrix
+puella puer mater pater
+puella puer regina rex
+puella puer victrix victor
+pater mater puer puella
+pater mater rex regina
+pater mater victor victrix
+mater pater puella puer
+mater pater regina rex
+mater pater victrix victor
+rex regina puer puella
+rex regina pater mater
+rex regina victor victrix
+regina rex puella puer
+regina rex mater pater
+regina rex victrix victor
+victor victrix puer puella
+victor victrix pater mater
+victor victrix rex regina
+victor victrix puella puer
+victor victrix mater pater
+victor victrix regina rex
+: Church and State
+papam rex episcopus dux
+: Leader and Jurisdiction
+papam roma augustini hippo
+papam roma ambrosius mediolanum
+
+
+
+
+
+

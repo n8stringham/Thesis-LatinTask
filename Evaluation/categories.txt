@@ -1,0 +1,65 @@
+* Group of 10 categories to create evaluation set
+
+
+: religious titles
+
+
+
+
+; religious figures
+
+
+
+
+: political figures
+
+
+
+
+: military figures
+
+
+
+
+: food
+
+
+
+
+: animals
+
+
+
+: art
+
+
+
+: fruit
+
+
+
+: medieval countries
+
+
+
+
+: clothing
+
+
+
+: religious offices
+
+
+
+
+: civic offices
+
+
+
+
+: military offices
+
+
+
+
+  

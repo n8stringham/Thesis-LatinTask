@@ -1,0 +1,11 @@
+:religious_titles
+papam achiepiscopus episcopus sacerdos cleric
+:religious_figures
+ambrosio augustini calixtus aquinas hieronymus eusebius
+:fruit
+malum uva oliva pruna pirum
+
+
+
+
+

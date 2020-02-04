@@ -1,53 +1,109 @@
-* Group of 10 categories to create evaluation set
+* Group of categories to create evaluation set
+Ex:
+english: up to 5, similar, latin, words
+
+: religious titles and offices
+pope: papam, papa, pontufex
+archbishop: archiepiscopus
+bishop: episcopus, pontufex, hierarcha, presbyter
+priest: sacerdos, antistita, praeminister, prophetes, flamen
+cleric: clericus
 
 
-: religious titles
+: religious figures
+
+ambrose: ambrosio
+augustine: augustini
+calixtus: calixtus
+aquinas: aquinas
+jerome: hieronymus
+eusebius: eusebius
 
 
+: political and military figures
 
-
-; religious figures
-
-
-
-
-: political figures
-
-
-
-
-: military figures
-
-
-
-
-: food
-
-
-
-
-: animals
-
-
-
-: art
-
+caesar: caesar
+agrippa: agrippa
+charlemagne: caroli magni
+constantine: constantini
+pompey: gnaeus pompeius magnus
 
 
 : fruit
 
+apple: malum/pomum
+grape: uva
+olive: oliva
+plums: pruna
+pear: pirum
 
 
-: medieval countries
+: animals
+
+lamb: agnus
+goat: capra
+chicken: pullus
+goose: anser
+duck: anas
+fish: piscis
 
 
+: vegetables
+
+beets: beta
+beans: faba
+lettuce: lactuca
+radishes: radix
+asparagus: asparagi
+
+
+: liquid drink
+
+water: aqua
+wine: vinum, mustum
+milk: lac, lactis
+
+
+: meat
+
+beef: bubula
+pork: porcina
+lamb: agnus
+meat: caro or carnis
+
+
+: seafood
+
+fish: piscis
+shellfish: concha
+oyster: ostrea
+
+: meals
+
+breakfast: prandium 
+lunch: prandium
+dinner: cena
+
+: geography countries
+
+spain: hispania, hiberia, hesperia
+france: gaul, 
+italy: italia
+germany: germania 
+greece: graecia
+syria: syria
+
+
+: geography cities
+
+rome: roma
+milan: mediolanum
+byzantium: byzantium
+carthage: carthago, karthago, cartago
+troy: troiae
 
 
 : clothing
-
-
-
-: religious offices
 
 
 

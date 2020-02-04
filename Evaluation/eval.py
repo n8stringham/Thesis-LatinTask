@@ -73,6 +73,7 @@ elif (args.type == 'odd-one-out.txt'):
                             print('predicted doesnt match=',answer)
                             one_out.append(answer)
                             labels.append(actual)
+
     # compare the prediction list with the labels list to calculate total accuracy
     correct = 0.0
     total = len(one_out)

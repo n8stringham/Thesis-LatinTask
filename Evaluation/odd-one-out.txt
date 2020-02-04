@@ -4,6 +4,20 @@ papam achiepiscopus episcopus sacerdos cleric
 ambrosio augustini calixtus aquinas hieronymus eusebius
 :fruit
 malum uva oliva pruna pirum
+:political_figures
+caesar agrippa caroli constantini pompeius
+:anmials
+agnus capra pullus anser piscis
+:vegetables
+beta faba lactuca radix asparagi
+:drink
+aqua mustum lac
+:seafood
+piscis concha ostrea
+:geography_countries
+hispania gaul italia germania graecia syria
+:geography cities
+roma mediolanum byzantium carthago troiae
 
 
 

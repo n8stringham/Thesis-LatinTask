@@ -50,8 +50,12 @@ elif (args.type == 'odd-one-out.txt'):
             pass
         elif(re.search('1$',test_set[pair][0]) and re.search('1$',test_set[pair][1])):
             pass
+        # ignore pairings with a 1-comb and 3-comb from the same category
+        elif(test_set[pair][0][0:-1] == test_set[pair][1][0:-1]):
+            pass
         # store the value from each pair for accessibility
         else:
+            print('good test pair =', test_set[pair][0][0:-1], test_set[pair][1][0:-1])
             ls1 = combos[test_set[pair][0]] # access values from combo dict for 1st key in pair
             ls2 = combos[test_set[pair][1]] # access values from combo dict for 2nd key in pair
             # loop through all value comparisons for this pair
@@ -82,4 +86,5 @@ elif (args.type == 'odd-one-out.txt'):
         accuracy = correct/total
     print('total accuracy =',accuracy)
     print('number of comparisons =',total)
+    
 

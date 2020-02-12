@@ -6,7 +6,7 @@ ambrosio augustini calixtus aquinas hieronymus eusebius
 malum uva oliva pruna pirum
 :political_figures
 caesar agrippa caroli constantini pompeius
-:anmials
+:animals
 agnus capra pullus anser piscis
 :vegetables
 beta faba lactuca radix asparagi
@@ -16,7 +16,7 @@ aqua mustum lac
 piscis concha ostrea
 :geography_countries
 hispania gaul italia germania graecia syria
-:geography cities
+:geography_cities
 roma mediolanum byzantium carthago troiae
 
 
